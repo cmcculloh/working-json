@@ -1,6 +1,6 @@
 {
-  "name": "foo",
-  "version": "1.0.1",
+  "name": "working-json",
+  "version": "1.0.2",
   "description": "",
   "main": "bar.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "private": true,
 }
