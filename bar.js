@@ -1,7 +1,7 @@
 import baz from './baz.json';
 
-const Banners = {
+const Foo = {
 	generate: () => baz
 }
 
-export { Banners };
+export { Foo };
